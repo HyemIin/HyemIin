@@ -1,3 +1,4 @@
+<a href="https://hyem5019.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FFFFFF?style=flat-square&logo=Bloglovin&logoColor=000000"/></a>
 ### Hi there 👋
 
 <!--
