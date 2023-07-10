@@ -11,9 +11,8 @@
 
 
 ### 👋 Introduce
-Hi! I'm Web-Backend Developer using Java/Spring.🚀
-I achieved approximately 2.1 billion ₩ in sales, through web service planning and development management at ThinkforBL Co., Ltd.
-In addition, I have experience in taking responsibility for completing R&D national tasks worth about 400 million ₩.
+안녕하세요! 자바/스프링 백엔드 개발자로 활동 중인 정혜민입니다.
+약 2년 간 스타트업에서 서비스 기획 및 관리 업무를 맡아 총 매출 21억 달성 및 약 4억원 규모의 R&D 국가과제를 책임지고 완수한 경험이 있습니다.
 
 ### 💪Skills
 platforms & Languages <br>
