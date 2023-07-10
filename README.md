@@ -10,7 +10,7 @@
 <a href="https://www.instagram.com/hyem_1n/" target="_blank"><img src="https://img.shields.io/badge/hyem_1n-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
 
-### 👋 Introduce
+### 👋 Introduction
 안녕하세요! 자바/스프링 백엔드 개발자로 활동 중인 정혜민입니다. <br>
 약 2년 간 스타트업에서 AI 서비스 기획 및 관리 업무를 맡아 총 매출 21억 달성 및 약 4억원 규모의 R&D 국가과제를 책임지고 완수한 경험이 있습니다. <br>
 현재는 백엔드 개발자로서 AI 웹 서비스 개발에 관심이 있습니다.
