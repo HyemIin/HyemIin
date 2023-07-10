@@ -6,6 +6,11 @@
 platforms & Languages <br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/></a> <br><br>
 <img src="https://img.shields.io/badge/Java-004027?style=flat-square&logo=Jameson&logoColor=FFFFFF"/></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=radical)
+
+
 <!--
 **HyemIin/HyemIin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
