@@ -11,8 +11,9 @@
 
 
 ### 👋 Introduce
-안녕하세요! 자바/스프링 백엔드 개발자로 활동 중인 정혜민입니다.
-약 2년 간 스타트업에서 서비스 기획 및 관리 업무를 맡아 총 매출 21억 달성 및 약 4억원 규모의 R&D 국가과제를 책임지고 완수한 경험이 있습니다.
+안녕하세요! 자바/스프링 백엔드 개발자로 활동 중인 정혜민입니다. <br>
+약 2년 간 스타트업에서 AI 서비스 기획 및 관리 업무를 맡아 총 매출 21억 달성 및 약 4억원 규모의 R&D 국가과제를 책임지고 완수한 경험이 있습니다. <br>
+현재는 백엔드 개발자로서 AI 웹 서비스 개발에 관심이 있습니다.
 
 ### 💪Skills
 platforms & Languages <br>
@@ -27,10 +28,6 @@ platforms & Languages <br>
 
 ### 🔥Github State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=radical)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyem5019)](https://solved.ac/hyem5019)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyemIin&layout=compact)](https://github.com/HyemIin/github-readme-stats)
-
 
 </div>
 
