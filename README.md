@@ -22,9 +22,12 @@ platforms & Languages <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=FFFFFF"/></a>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=FFFFFF"/></a>
 </a><br><br>
 <img src="https://img.shields.io/badge/Java-004027?style=flat-square&logo=Jameson&logoColor=FFFFFF"/></a>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/></a>
+
 
 ### 🔥Github State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=radical)
