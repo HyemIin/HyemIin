@@ -4,7 +4,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyemIin%2F&count_bg=%2379C83D&title_bg=%2348463B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<a href="[https://hyem5019.tistory.com/](https://www.notion.so/Harry-841f829dbf734f99b5668fd0eb43272d?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Resume-0062AD?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
+<a href="[[https://hyem5019.tistory.com/](https://www.notion.so/Harry-841f829dbf734f99b5668fd0eb43272d?pvs=4)](https://lydian-tank-922.notion.site/Harry-PlayMaker-841f829dbf734f99b5668fd0eb43272d?pvs=4)" target="_blank"><img src="https://img.shields.io/badge/Resume-0062AD?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://hyem5019.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF8800?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="hyem5019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyem5019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 <a href="https://www.instagram.com/hyem_1n/" target="_blank"><img src="https://img.shields.io/badge/hyem_1n-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
