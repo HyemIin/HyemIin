@@ -39,6 +39,9 @@ platforms & Languages <br>
 ### 🔥Github State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=radical)
 
+### 🌱Algorithm Tier
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyem5019)](https://solved.ac/hyem5019/)
 </div>
 
 <!--
