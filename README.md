@@ -36,8 +36,8 @@ platforms & Languages <br>
 <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=PyCharm&logoColor=FFFFFF"/></a>
 
 
-### 🔥Github State
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=radical)
+### 🔥Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyemIin&show_icons=true&theme=transparent)
 
 ### 🌱Algorithm Tier
 
