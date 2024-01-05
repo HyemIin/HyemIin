@@ -7,7 +7,6 @@
 <a href="https://www.notion.so/Harry-5f70498ab45843b6ad2fd57c463620ca?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Resume-0062AD?style=flat-square&logo=Notion&logoColor=FFFFFF"/></a>
 <a href="https://hyem5019.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF8800?style=flat-square&logo=Tistory&logoColor=FFFFFF"/></a>
 <a href="hyem5019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyem5019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
-<a href="https://www.instagram.com/hyem_1n/" target="_blank"><img src="https://img.shields.io/badge/hyem_1n-E4405F?style=flat-square&logo=Instagram&logoColor=FFFFFF"/></a>
 
 
 ### 👋 Introduce
