@@ -9,21 +9,6 @@
 <a href="hyem5019@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hyem5019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
 
 
-### 👋 Introduce
-반갑습니다.<br>
-WHY를 통해 꾸준한 발전을 추구하는 자바/스프링 백엔드 개발자 정혜민입니다. <br>
-백엔드 개발자로서 같은 기능을 구현하더라도 왜 이 방식으로 개발했는지 고민하는 것에 관심을 쏟고 있습니다.<br>
-
-아래와 같은 경험을 기반으로 협업을 우선시하는 개발을 추구합니다.<br>
-
-약 2년간 스타트업 기획자로서 웹 서비스 기획 & 외주 개발 관리를 맡았습니다.<br>
-서비스 기획 초기부터 참여하여 3,000만 원의 서비스 첫 투자 유치를 성공한 경험이 있습니다.<br>
-서비스 런칭 후 [가비아 클라우드 마켓플레이스](https://cloud.gabia.com/marketplace/15)에 등록했습니다.<br>
-
-동시에 R&D 국가과제 PL(Project Leader) 을 겸하였습니다.<br>
-PL로서 연 매출 약 21억 달성 및 약 4억원 규모의 R&D 국가과제를 책임지고 완수한 경험이 있습니다.(21년도 기준)<br>
-
-
 ### 💪Skills
 platforms & Languages <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=FFFFFF"/></a>
